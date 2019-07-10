@@ -325,11 +325,11 @@ class Dashboard extends Admin_Controller
             // save data into clock table
             if ($clocktime == 1) {
                 $data['clockin_time'] = $time;
-                send_clock_email('clock_in_email');
+//                send_clock_email('clock_in_email');
             } else {
                 $data['clockout_time'] = $time;
                 $data['comments'] = $this->input->post('comments', TRUE);
-                send_clock_email('clock_out_email');
+//                send_clock_email('clock_out_email');
             }
             $data['ip_address'] = $this->input->ip_address();
             //save data in database
