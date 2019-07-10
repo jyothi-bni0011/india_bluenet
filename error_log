@@ -1,0 +1,12 @@
+[14-May-2019 16:53:15 Asia/Kolkata] PHP Fatal error:  Call to a member function row() on boolean in /home/grafx10n/public_html/employee/application/core/MY_Model.php on line 230
+[15-May-2019 11:29:14 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/grafx10n/public_html/employee/application/helpers/admin_helper.php on line 1902
+[15-May-2019 11:29:59 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/grafx10n/public_html/employee/application/helpers/admin_helper.php on line 1902
+[15-May-2019 11:30:08 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/grafx10n/public_html/employee/application/helpers/admin_helper.php on line 1902
+[15-May-2019 11:30:14 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/grafx10n/public_html/employee/application/helpers/admin_helper.php on line 1902
+[15-May-2019 11:35:07 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/grafx10n/public_html/employee/application/helpers/admin_helper.php on line 1902
+[15-May-2019 11:57:25 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/grafx10n/public_html/employee/application/helpers/admin_helper.php on line 1902
+[15-May-2019 11:58:01 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/grafx10n/public_html/employee/application/helpers/admin_helper.php on line 1902
+[15-May-2019 12:06:12 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/grafx10n/public_html/employee/application/helpers/admin_helper.php on line 1902
+[18-Jun-2019 10:08:48 UTC] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: ) in /home/grafx10n/public_html/employee/system/libraries/Session/Session.php on line 143
+[18-Jun-2019 10:08:50 UTC] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: ) in /home/grafx10n/public_html/employee/system/libraries/Session/Session.php on line 143
+[18-Jun-2019 10:08:52 UTC] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: ) in /home/grafx10n/public_html/employee/system/libraries/Session/Session.php on line 143
