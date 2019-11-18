@@ -23,7 +23,7 @@
                         <div class="input-group">
                             <input type="text" class="form-control monthyear" value="<?php
                             if (!empty($date)) {
-                                echo date('Y-n', strtotime($date));
+                                echo date('F - Y', strtotime($date));
                             }
                             ?>" name="date">
                             <div class="input-group-addon">

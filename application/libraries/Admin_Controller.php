@@ -26,7 +26,7 @@ class Admin_Controller extends MY_Controller
         }
         if (strpos($this->uri->uri_string(), 'login') === FALSE) {
             $this->session->set_userdata(array(
-                'url' => $this->uri->uri_string()
+                'url' => "admin/Dashboard"
             ));
         }
 
